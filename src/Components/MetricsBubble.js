@@ -1,5 +1,5 @@
 import React from "react";
-import "../App.js";
+import "../App.js"; 
 
 /*
 MetricsBubble Component displays a "bubble" of user inputted metrics.
